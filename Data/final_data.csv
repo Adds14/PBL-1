@@ -64,7 +64,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 48,management,married,tertiary,0,1.5206012765185692,0,0,cellular,13,aug,0.2018321901586641,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 48,services,married,secondary,0,0.1322075580837941,0,0,cellular,4,jul,-0.3639669427880143,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 56,admin.,married,secondary,0,4.282307858812108,0,0,cellular,7,oct,0.182023244883824,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
-51,blue-collar,divorced,secondary,0,-0.3272850762679848,1,0,cellular,8,may,-0.3639669427880143,1,170,5,0,1,0,Senior,6,0.16666666666666666,0,0,0,cold,0,1,0
+51,blue-collar,divorced,secondary,0,-0.3272850762679848,1,0,cellular,8,may,-0.3639669427880143,1,170,5,0,1,0,Senior,6,0.1666666666666666,0,0,0,cold,0,1,0
 31,services,married,secondary,0,-0.2643420242836318,1,0,cellular,28,jan,-0.2120859572370491,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 29,technician,married,secondary,0,-0.2179280742712497,1,0,cellular,21,jul,-0.3951702287031097,4,-1,0,0,0,0,Young,4,4.0,1,1,0,never,0,0,0
 41,management,married,secondary,0,-0.4453824591762855,0,1,cellular,7,jul,1.4297803466723704,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
@@ -96,7 +96,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 57,blue-collar,married,secondary,0,3.623746533721119,0,0,cellular,11,aug,0.221345524549473,5,-1,0,0,0,0,Senior,5,5.0,1,1,0,never,0,0,0
 41,unknown,single,tertiary,0,0.20668433885293,0,0,cellular,1,jul,0.4840401262687935,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 41,admin.,married,tertiary,0,1.3914234912577554,1,0,unknown,14,may,-0.253597825533527,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
-30,admin.,single,tertiary,0,-0.2995861331310908,0,0,cellular,19,oct,0.2309942918526917,1,137,20,0,1,0,Young,21,0.047619047619047616,0,0,0,cold,0,1,0
+30,admin.,single,tertiary,0,-0.2995861331310908,0,0,cellular,19,oct,0.2309942918526917,1,137,20,0,1,0,Young,21,0.0476190476190476,0,0,0,cold,0,1,0
 36,blue-collar,divorced,secondary,0,0.6262864143116937,0,0,cellular,12,feb,1.0664154134450743,1,182,1,0,1,1,Adult,2,0.5,0,0,0,never,0,1,0
 31,unemployed,single,primary,0,-0.2343287580131874,0,0,cellular,4,feb,1.6333140569769986,1,-1,0,1,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 36,blue-collar,married,secondary,0,-0.4453824591762855,1,0,unknown,6,may,0.6556686691755642,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
@@ -228,7 +228,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 33,technician,married,secondary,0,-0.9512957770534496,0,0,cellular,15,may,0.5076880519255021,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
 33,technician,married,secondary,0,-0.2549741988499956,1,0,cellular,20,apr,0.1154796340791236,1,242,1,0,1,0,Adult,2,0.5,0,0,0,never,0,1,0
 36,blue-collar,married,primary,0,-0.3678576401096981,1,0,cellular,18,may,-2.6233073031180534,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
-35,technician,married,tertiary,0,-0.4453824591762855,1,1,cellular,23,sep,-0.5465766299933368,1,62,6,0,1,0,Adult,7,0.14285714285714285,0,0,0,warm,0,1,0
+35,technician,married,tertiary,0,-0.4453824591762855,1,1,cellular,23,sep,-0.5465766299933368,1,62,6,0,1,0,Adult,7,0.1428571428571428,0,0,0,warm,0,1,0
 52,unknown,married,secondary,0,-0.3579027629201855,0,0,cellular,25,aug,-0.5465766299933368,6,-1,0,0,0,0,Senior,6,6.0,1,1,0,never,0,0,0
 40,entrepreneur,married,tertiary,0,0.8506366808799386,0,0,unknown,9,jun,0.1770236727689251,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
 44,technician,single,secondary,0,-0.4199374866140624,1,0,cellular,13,may,0.0341835237646707,3,351,10,0,1,0,Adult,13,0.2727272727272727,0,0,0,never,0,1,0
@@ -237,7 +237,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 48,technician,divorced,secondary,1,-0.4288202874034721,0,0,cellular,27,aug,-0.2820701891630726,3,-1,0,0,0,0,Senior,3,3.0,0,1,0,never,0,0,0
 33,blue-collar,married,secondary,0,0.8521493244094375,1,0,cellular,2,apr,-0.4435417953377298,1,308,2,0,1,0,Adult,3,0.3333333333333333,0,0,0,never,0,1,0
 57,technician,married,unknown,0,-0.3258227411804072,1,0,unknown,5,may,0.1466162723443244,3,-1,0,0,0,0,Senior,3,3.0,0,1,0,never,0,0,0
-57,housemaid,married,primary,0,1.8479756478757532,0,0,unknown,6,jun,-1.0157048996890454,3,-1,0,0,0,0,Senior,3,3.0,0,1,0,never,0,0,0
+57,housemaid,married,primary,0,1.8479756478757527,0,0,unknown,6,jun,-1.0157048996890454,3,-1,0,0,0,0,Senior,3,3.0,0,1,0,never,0,0,0
 51,unemployed,married,tertiary,0,0.2298626392873265,1,0,cellular,22,jul,-0.1266413503888223,4,-1,0,0,0,0,Senior,4,4.0,1,1,0,never,0,0,0
 34,admin.,single,secondary,0,-0.4442696930118384,1,0,cellular,22,jul,1.0924313701624209,7,-1,0,0,0,0,Adult,7,7.0,1,1,0,never,0,0,0
 50,self-employed,married,tertiary,0,0.9827537919642748,0,0,cellular,19,nov,1.548290563706308,3,-1,0,0,0,0,Senior,3,3.0,0,1,0,never,0,0,0
@@ -288,7 +288,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 47,admin.,married,secondary,0,0.0251898370854785,1,0,unknown,6,jun,-0.8408782996754384,3,-1,0,0,0,0,Senior,3,3.0,0,1,0,never,0,0,0
 27,self-employed,married,secondary,0,-0.9977634085506684,1,0,unknown,26,may,-0.333546143835474,2,-1,0,0,0,0,Young,2,2.0,0,1,0,never,0,0,0
 41,management,married,tertiary,0,-0.4097579990931512,1,0,cellular,17,jul,0.5650698271555598,5,-1,0,0,0,0,Adult,5,5.0,1,1,0,never,0,0,0
-34,admin.,married,tertiary,0,-0.397772851157084,0,1,cellular,4,aug,-0.4769071477773071,3,1,6,1,1,1,Adult,9,0.42857142857142855,0,0,1,recent,0,1,0
+34,admin.,married,tertiary,0,-0.397772851157084,0,1,cellular,4,aug,-0.4769071477773071,3,1,6,1,1,1,Adult,9,0.4285714285714285,0,0,1,recent,0,1,0
 50,blue-collar,married,primary,0,1.0111842950340166,1,0,cellular,7,aug,1.199303277261424,2,-1,0,1,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 47,blue-collar,married,secondary,0,-0.2026054494335941,1,0,unknown,28,may,0.1207213310599258,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 53,services,married,secondary,0,1.2686981423517896,0,0,cellular,18,aug,-1.1146749651642027,6,-1,0,0,0,0,Senior,6,6.0,1,1,0,never,0,0,0
@@ -309,7 +309,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 38,unemployed,married,primary,0,0.0572149377645006,1,1,unknown,8,may,0.305739003342544,5,-1,0,0,0,0,Adult,5,5.0,1,1,0,never,0,0,0
 35,management,married,tertiary,0,1.063608418793261,1,0,unknown,9,may,0.7241010449920471,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 38,admin.,married,tertiary,0,-0.1507875501517104,0,0,cellular,18,nov,-0.267751572892154,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
-49,blue-collar,married,secondary,0,2.2364875626611758,1,1,cellular,6,may,0.0563701323260883,7,167,1,0,1,0,Senior,8,3.5,1,0,0,cold,0,1,0
+49,blue-collar,married,secondary,0,2.236487562661176,1,1,cellular,6,may,0.0563701323260883,7,167,1,0,1,0,Senior,8,3.5,1,0,0,cold,0,1,0
 55,management,married,unknown,0,-0.1696272348109899,0,0,cellular,28,jan,0.4020846279172607,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 43,blue-collar,single,primary,0,-0.4432504043577162,1,0,cellular,30,jul,1.71561176263597,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
 43,management,married,tertiary,0,-0.4432504043577162,0,1,cellular,20,aug,1.063788017587841,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
@@ -336,7 +336,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 30,management,single,tertiary,0,-0.2265295178634164,0,0,cellular,16,apr,0.5115896323562774,4,-1,0,1,0,0,Young,4,4.0,1,1,0,never,0,0,0
 47,management,divorced,tertiary,0,-0.2166434896189795,0,1,unknown,7,may,-0.427200969114286,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
 33,blue-collar,married,primary,0,-0.9254198644130353,0,0,unknown,20,sep,-2.6233073031180534,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
-33,management,single,tertiary,0,0.1517051921256108,1,0,cellular,5,feb,-2.698232003238788,1,254,5,0,1,0,Adult,6,0.16666666666666666,0,0,0,never,0,1,0
+33,management,single,tertiary,0,0.1517051921256108,1,0,cellular,5,feb,-2.698232003238788,1,254,5,0,1,0,Adult,6,0.1666666666666666,0,0,0,never,0,1,0
 63,retired,married,primary,0,0.0340667303170401,0,0,cellular,14,oct,0.0673211707043015,1,183,1,0,1,1,Old,2,0.5,0,0,0,never,0,1,0
 51,self-employed,divorced,primary,0,2.845603484272106,0,0,cellular,6,may,-0.6016593854785363,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 41,management,married,tertiary,0,-0.0609588044295136,1,1,cellular,21,nov,-0.1523137894931696,1,176,1,0,1,0,Adult,2,0.5,0,0,0,cold,0,1,0
@@ -381,7 +381,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 27,services,single,secondary,0,-0.2076909877033498,1,0,cellular,13,may,-0.5737961200764227,1,-1,0,0,0,0,Young,1,1.0,0,1,0,never,0,0,0
 39,blue-collar,married,secondary,0,-0.4453824591762855,1,0,cellular,30,apr,-1.25681478388805,1,325,1,0,1,0,Adult,2,0.5,0,0,0,never,0,1,0
 39,blue-collar,married,primary,0,0.8910550743578691,1,0,unknown,16,jun,-0.9124902053637296,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
-59,retired,married,tertiary,0,2.5291826694185717,0,0,telephone,27,mar,0.2357922001363494,2,-1,0,1,0,0,Senior,2,2.0,0,1,0,never,0,0,0
+59,retired,married,tertiary,0,2.529182669418572,0,0,telephone,27,mar,0.2357922001363494,2,-1,0,1,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 37,services,married,secondary,0,0.1225878744451317,1,0,telephone,13,may,-0.4684781907331588,2,341,4,0,1,0,Adult,6,0.4,0,0,0,never,0,1,0
 41,blue-collar,married,primary,0,-0.437926427397188,1,0,cellular,15,jul,-0.2120859572370491,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 45,blue-collar,married,primary,0,-0.4024874728064286,0,0,cellular,17,apr,-0.5830107239015209,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
@@ -463,7 +463,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 50,blue-collar,married,secondary,0,-0.2893586253889754,1,0,cellular,7,aug,0.196908044747213,3,-1,0,0,0,0,Senior,3,3.0,0,1,0,never,0,0,0
 45,management,divorced,tertiary,0,-0.4453824591762855,0,0,unknown,1,jun,-2.976261751472113,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 35,blue-collar,divorced,secondary,0,0.7070926795403024,1,0,cellular,20,nov,-0.333546143835474,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
-32,blue-collar,married,secondary,0,-0.0390881563555916,1,0,cellular,10,sep,-0.0230293886169544,1,99,5,1,1,1,Adult,6,0.16666666666666666,0,0,0,cold,0,1,0
+32,blue-collar,married,secondary,0,-0.0390881563555916,1,0,cellular,10,sep,-0.0230293886169544,1,99,5,1,1,1,Adult,6,0.1666666666666666,0,0,0,cold,0,1,0
 59,housemaid,married,secondary,0,-0.4453824591762855,0,0,telephone,3,feb,1.607930517543551,1,99,4,0,1,0,Senior,5,0.2,0,0,0,cold,0,1,0
 34,self-employed,married,secondary,0,-1.457326919068458,1,0,unknown,21,may,1.6547445843139923,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 39,management,married,tertiary,0,-2.243719253806706,1,0,unknown,26,may,-0.3038665174105017,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
@@ -476,7 +476,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 41,management,married,tertiary,0,-0.1261675494770671,1,0,unknown,21,may,0.323782966205162,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
 57,blue-collar,married,primary,0,-0.2145057004461778,1,0,unknown,13,may,-0.326058291672042,4,-1,0,0,0,0,Senior,4,4.0,1,1,0,never,0,0,0
 48,blue-collar,married,secondary,0,-0.3542921828983191,1,0,unknown,9,may,-0.9889889898856716,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
-77,retired,married,tertiary,0,2.0406989981006958,0,0,telephone,4,may,0.9230249210725576,1,92,2,1,1,1,Old,3,0.3333333333333333,0,0,0,cold,0,1,0
+77,retired,married,tertiary,0,2.040698998100696,0,0,telephone,4,may,0.9230249210725576,1,92,2,1,1,1,Old,3,0.3333333333333333,0,0,0,cold,0,1,0
 35,services,married,secondary,0,0.1668603640715288,1,0,unknown,28,may,0.0563701323260883,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 54,blue-collar,married,secondary,0,0.1763380728296555,1,0,unknown,14,may,-0.5830107239015209,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
 37,management,single,unknown,0,-0.106663341165251,1,0,unknown,20,may,0.2966240642574004,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
@@ -511,7 +511,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 30,blue-collar,single,secondary,0,-0.2747141467423089,0,0,cellular,23,jun,2.5322347053788614,1,-1,0,1,0,0,Young,1,1.0,0,1,0,never,0,0,0
 38,blue-collar,married,secondary,0,-0.3689197836403365,1,1,cellular,6,feb,-0.1266413503888223,1,212,2,0,1,0,Adult,3,0.3333333333333333,0,0,0,never,0,1,0
 32,management,married,tertiary,0,-0.065594529899173,1,0,cellular,17,jul,1.63690647870973,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
-52,technician,married,secondary,0,-0.3312023885528676,1,0,cellular,18,feb,0.166966617606134,1,63,5,1,1,0,Senior,6,0.16666666666666666,0,0,0,warm,0,1,0
+52,technician,married,secondary,0,-0.3312023885528676,1,0,cellular,18,feb,0.166966617606134,1,63,5,1,1,0,Senior,6,0.1666666666666666,0,0,0,warm,0,1,0
 48,management,divorced,tertiary,0,-0.3758973433459038,1,0,unknown,27,may,-0.773523441960531,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 36,management,married,tertiary,0,-1.4924627993289388,1,0,cellular,31,jul,-1.743378964781843,29,-1,0,0,0,0,Adult,29,29.0,1,1,0,never,0,0,0
 45,unemployed,divorced,primary,0,-0.0901226650373377,0,0,cellular,20,apr,-0.6302003588078081,1,325,4,0,1,0,Adult,5,0.2,0,0,0,never,0,1,0
@@ -803,7 +803,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 30,blue-collar,single,secondary,0,-0.2174997191550571,1,0,cellular,16,apr,0.1568312618359194,1,330,2,0,1,0,Young,3,0.3333333333333333,0,0,0,never,0,1,0
 40,management,married,secondary,0,-0.1354044138775966,1,0,cellular,17,apr,-0.9500838443668655,2,256,1,0,1,0,Adult,3,1.0,0,0,0,never,0,1,0
 57,housemaid,single,secondary,0,-0.3028699830925778,0,0,cellular,8,oct,1.521450887873167,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
-40,management,married,tertiary,0,-4.480851919808708,1,0,cellular,15,may,2.372039852852209,2,333,18,0,1,0,Adult,20,0.10526315789473684,0,0,0,never,0,1,0
+40,management,married,tertiary,0,-4.480851919808708,1,0,cellular,15,may,2.372039852852209,2,333,18,0,1,0,Adult,20,0.1052631578947368,0,0,0,never,0,1,0
 41,technician,married,secondary,0,0.3953160141425925,1,1,cellular,21,nov,0.4599720570010501,3,116,4,0,1,0,Adult,7,0.6,0,0,0,cold,0,1,0
 53,technician,divorced,unknown,0,-0.141053765330169,1,0,cellular,8,may,0.5115896323562774,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
 48,blue-collar,married,secondary,0,-0.9455288667473744,1,1,cellular,30,jul,0.1919652746057183,4,-1,0,0,0,0,Senior,4,4.0,1,1,0,never,0,0,0
@@ -1019,7 +1019,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 49,blue-collar,married,secondary,0,-1.7297515789344404,1,0,cellular,14,may,1.2740863450619233,1,-1,0,1,0,0,Senior,1,1.0,0,1,0,never,0,0,0
 55,retired,married,secondary,0,-0.2085406773411894,0,0,unknown,17,jun,0.4680424288012426,4,-1,0,0,0,0,Senior,4,4.0,1,1,0,never,0,0,0
 53,retired,married,secondary,0,-0.126568033641595,1,0,cellular,22,apr,0.7700796765977169,2,-1,0,1,0,0,Senior,2,2.0,0,1,0,never,0,0,0
-42,technician,married,secondary,0,0.0006023618556341,1,0,cellular,11,aug,-0.253597825533527,1,78,5,1,1,0,Adult,6,0.16666666666666666,0,0,0,warm,0,1,0
+42,technician,married,secondary,0,0.0006023618556341,1,0,cellular,11,aug,-0.253597825533527,1,78,5,1,1,0,Adult,6,0.1666666666666666,0,0,0,warm,0,1,0
 45,admin.,married,secondary,0,1.3688235251338383,1,1,unknown,21,oct,-0.0113794026636284,1,-1,0,1,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 31,blue-collar,married,secondary,0,0.0920864345863552,1,0,unknown,21,may,-1.6904781564694102,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 32,admin.,married,tertiary,0,-0.4453824591762855,1,0,unknown,5,may,-0.333546143835474,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
@@ -1105,9 +1105,9 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 55,blue-collar,married,unknown,0,0.2405329641114315,0,0,telephone,30,jul,-0.773523441960531,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 37,blue-collar,single,primary,0,-0.0536416151548529,1,0,cellular,15,may,-0.2396048880027354,1,352,1,0,1,0,Adult,2,0.5,0,0,0,never,0,1,0
 41,management,married,tertiary,0,0.6394709433371927,0,0,cellular,19,nov,-1.5030954552784113,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
-35,blue-collar,married,secondary,0,-0.360499801790172,0,1,unknown,4,oct,-2.976261751472113,1,808,12,0,1,0,Adult,13,0.07692307692307693,0,0,0,never,0,1,0
+35,blue-collar,married,secondary,0,-0.360499801790172,0,1,unknown,4,oct,-2.976261751472113,1,808,12,0,1,0,Adult,13,0.0769230769230769,0,0,0,never,0,1,0
 34,blue-collar,single,secondary,0,0.0906426602915377,1,0,cellular,18,jul,-0.7626740617525385,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
-43,management,single,tertiary,0,-0.3558360506260095,0,0,cellular,21,nov,-1.3087282100943065,1,113,5,0,1,0,Adult,6,0.16666666666666666,0,0,0,cold,0,1,0
+43,management,single,tertiary,0,-0.3558360506260095,0,0,cellular,21,nov,-1.3087282100943065,1,113,5,0,1,0,Adult,6,0.1666666666666666,0,0,0,cold,0,1,0
 59,technician,married,secondary,0,-0.4442696930118384,0,0,cellular,15,apr,-0.1851652099321126,2,378,3,1,1,0,Senior,5,0.5,0,0,0,never,0,1,0
 50,blue-collar,divorced,primary,0,-0.4610547531638566,0,1,cellular,10,jul,0.7636030589168976,6,-1,0,0,0,0,Senior,6,6.0,1,1,0,never,0,0,0
 37,technician,married,secondary,0,-0.2026054494335941,0,0,cellular,22,oct,0.6800054932192093,2,182,8,1,1,0,Adult,10,0.2222222222222222,0,0,0,never,0,1,0
@@ -1158,7 +1158,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 38,blue-collar,married,secondary,0,-0.2888969555225841,1,1,unknown,3,jun,2.0890827960495257,6,-1,0,0,0,0,Adult,6,6.0,1,1,0,never,0,0,0
 55,blue-collar,married,unknown,0,-0.4267041566443464,0,0,cellular,13,aug,-0.4517963920004281,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 38,management,single,tertiary,0,0.1386028914567188,0,0,cellular,22,oct,-0.4853960145450777,4,-1,0,0,0,0,Adult,4,4.0,1,1,0,never,0,0,0
-31,management,single,tertiary,0,-0.401892827541779,1,0,cellular,18,may,-0.0829418631187914,1,293,5,0,1,0,Adult,6,0.16666666666666666,0,0,0,never,0,1,0
+31,management,single,tertiary,0,-0.401892827541779,1,0,cellular,18,may,-0.0829418631187914,1,293,5,0,1,0,Adult,6,0.1666666666666666,0,0,0,never,0,1,0
 38,blue-collar,divorced,secondary,0,-0.3502000557473444,0,0,unknown,9,jun,0.5154800464366859,5,-1,0,0,0,0,Adult,5,5.0,1,1,0,never,0,0,0
 29,unemployed,single,tertiary,0,-0.0005216028934331,0,0,cellular,5,feb,1.2854379368087003,1,-1,0,0,0,0,Young,1,1.0,0,1,0,never,0,0,0
 55,services,married,secondary,0,-0.3356414673497719,1,1,unknown,9,may,0.2688961184060329,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
@@ -1166,7 +1166,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 40,self-employed,single,tertiary,0,0.641978636673551,0,0,cellular,2,jun,-0.9248815975927784,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
 34,blue-collar,married,secondary,0,0.319383103068541,1,1,cellular,19,nov,0.9798781796511672,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 32,technician,single,tertiary,0,1.4162193042521083,0,0,cellular,22,apr,0.5910451101378238,1,182,1,1,1,1,Adult,2,0.5,0,0,0,never,0,1,0
-33,blue-collar,married,secondary,0,-0.0390881563555916,1,0,unknown,18,sep,-2.376329817268881,1,373,6,0,1,1,Adult,7,0.14285714285714285,0,0,0,never,0,1,0
+33,blue-collar,married,secondary,0,-0.0390881563555916,1,0,unknown,18,sep,-2.376329817268881,1,373,6,0,1,1,Adult,7,0.1428571428571428,0,0,0,never,0,1,0
 33,management,married,tertiary,0,-0.2939904481057841,1,0,unknown,16,may,1.7493548353725854,1,-1,0,1,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 37,admin.,married,secondary,0,0.0739825832207267,0,0,cellular,12,may,0.8486171726269265,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 58,management,married,tertiary,0,0.5903340571216934,0,0,unknown,18,jun,-0.005594188098667,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
@@ -1180,7 +1180,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 27,blue-collar,divorced,secondary,0,-0.4442696930118384,1,0,cellular,14,jul,-0.511231490272068,3,-1,0,0,0,0,Young,3,3.0,0,1,0,never,0,0,0
 37,management,married,tertiary,0,1.3006803140899217,0,0,cellular,30,apr,0.2828328336825758,1,-1,0,1,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 31,technician,married,tertiary,0,-0.138226497538528,1,0,cellular,4,may,0.7073061855188945,4,-1,0,1,0,0,Adult,4,4.0,1,1,0,never,0,0,0
-34,services,married,secondary,0,0.0311114450784991,0,0,cellular,12,may,-0.2326674961608044,1,182,6,1,1,1,Adult,7,0.14285714285714285,0,0,0,never,0,1,0
+34,services,married,secondary,0,0.0311114450784991,0,0,cellular,12,may,-0.2326674961608044,1,182,6,1,1,1,Adult,7,0.1428571428571428,0,0,0,never,0,1,0
 38,management,married,tertiary,0,-0.3662697657916428,1,0,unknown,21,may,-0.1523137894931696,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 32,self-employed,married,secondary,0,-0.5066476011655451,1,0,unknown,28,may,0.2357922001363494,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
 37,technician,married,secondary,0,-0.2239421242883955,0,0,cellular,27,aug,-0.2189084924437898,4,-1,0,0,0,0,Adult,4,4.0,1,1,0,never,0,0,0
@@ -1311,7 +1311,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 31,management,married,secondary,0,-0.1426717003218844,1,0,cellular,7,apr,0.9316981781869346,1,138,1,0,1,0,Adult,2,0.5,0,0,0,cold,0,1,0
 37,student,married,unknown,0,-0.4453824591762855,0,0,unknown,18,jun,-0.5199695280840949,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 51,services,married,secondary,0,-0.0475008999977877,1,0,cellular,3,feb,-0.0707300511219302,2,211,3,0,1,0,Senior,5,0.5,0,0,0,never,0,1,0
-80,retired,married,secondary,0,2.17330522274172,0,0,telephone,9,jun,1.5895402551366828,1,64,12,1,1,0,Old,13,0.07692307692307693,0,0,0,warm,0,1,0
+80,retired,married,secondary,0,2.17330522274172,0,0,telephone,9,jun,1.5895402551366828,1,64,12,1,1,0,Old,13,0.0769230769230769,0,0,0,warm,0,1,0
 32,management,single,tertiary,0,-0.3532658054220876,1,0,unknown,6,may,-0.4939457214615945,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 48,services,married,primary,1,-2.164407301491466,1,0,unknown,2,jun,-1.8896939071365269,7,-1,0,0,0,0,Senior,7,7.0,1,1,0,never,0,0,0
 49,blue-collar,married,tertiary,0,0.2811918307950142,0,0,unknown,12,jun,1.6635872219184673,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
@@ -1411,7 +1411,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 31,blue-collar,married,secondary,0,-0.4453824591762855,1,0,unknown,5,may,-0.2965578932379944,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 49,technician,divorced,secondary,0,-0.2977162414230693,1,0,unknown,12,may,0.4147005350399105,6,-1,0,0,0,0,Senior,6,6.0,1,1,0,never,0,0,0
 35,blue-collar,single,secondary,0,-0.4453824591762855,1,0,cellular,16,apr,2.272590598415745,1,345,4,1,1,0,Adult,5,0.2,0,0,0,never,0,1,0
-57,admin.,divorced,unknown,0,0.9827537919642748,0,0,cellular,20,nov,1.9260098120740132,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
+57,admin.,divorced,unknown,0,0.9827537919642748,0,0,cellular,20,nov,1.9260098120740128,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
 42,blue-collar,married,primary,0,0.1903263355202265,1,0,cellular,5,feb,-0.5199695280840949,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 36,blue-collar,divorced,secondary,0,-0.7719089799519488,1,0,unknown,26,may,0.1770236727689251,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 75,retired,divorced,primary,0,-0.0532572596847921,0,0,cellular,15,mar,0.6696277260560338,1,-1,0,0,0,0,Old,1,1.0,0,1,0,never,0,0,0
@@ -1470,7 +1470,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 38,management,married,tertiary,0,-0.4453824591762855,1,0,cellular,13,may,1.2254384559752038,5,303,2,0,1,0,Adult,7,1.6666666666666667,1,0,0,never,0,1,0
 59,technician,married,secondary,0,-0.3005228639140782,0,0,cellular,15,jun,0.905518697455437,1,89,1,1,1,1,Senior,2,0.5,0,0,0,warm,0,1,0
 55,blue-collar,married,primary,0,1.009706299160669,0,0,cellular,19,nov,0.4840401262687935,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
-38,technician,single,tertiary,0,-0.0952256439537101,1,0,cellular,14,may,0.4518531756251834,1,288,12,0,1,0,Adult,13,0.07692307692307693,0,0,0,never,0,1,0
+38,technician,single,tertiary,0,-0.0952256439537101,1,0,cellular,14,may,0.4518531756251834,1,288,12,0,1,0,Adult,13,0.0769230769230769,0,0,0,never,0,1,0
 48,services,married,secondary,0,-0.3715880076239098,1,0,telephone,20,apr,-1.0022663271983454,4,-1,0,0,0,0,Senior,4,4.0,1,1,0,never,0,0,0
 53,blue-collar,married,secondary,0,-0.3971900482748451,1,0,unknown,5,may,1.3902363789933712,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 44,admin.,divorced,secondary,0,-0.2230809998565166,0,0,cellular,9,feb,-0.3794680549767789,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
@@ -1523,7 +1523,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 38,blue-collar,married,secondary,0,0.2398455629127073,1,0,cellular,13,apr,0.1517338059869999,3,327,1,0,1,0,Adult,4,1.5,0,0,0,never,0,1,0
 39,entrepreneur,married,primary,0,-0.3104334021035523,1,1,cellular,19,nov,-0.3639669427880143,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 34,technician,single,secondary,0,0.4127674827126241,1,0,cellular,26,may,-1.4819319891142886,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
-42,blue-collar,married,primary,0,-0.0764556253708106,1,1,cellular,19,nov,1.3902363789933712,2,175,12,0,1,0,Adult,14,0.15384615384615385,0,0,0,cold,0,1,0
+42,blue-collar,married,primary,0,-0.0764556253708106,1,1,cellular,19,nov,1.3902363789933712,2,175,12,0,1,0,Adult,14,0.1538461538461538,0,0,0,cold,0,1,0
 35,blue-collar,single,unknown,0,-0.0459686864535201,1,0,unknown,6,jun,0.1466162723443244,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
 60,admin.,married,secondary,0,0.0121838887925298,0,0,cellular,6,aug,0.8239579570983917,8,-1,0,0,0,0,Senior,8,8.0,1,1,0,never,0,0,0
 57,technician,divorced,secondary,0,-0.4012997566261679,1,0,unknown,5,may,0.2735580605357988,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
@@ -1547,7 +1547,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 56,admin.,married,secondary,0,-0.4453824591762855,1,0,telephone,19,nov,-0.2189084924437898,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 53,blue-collar,married,secondary,0,-0.4453824591762855,0,0,telephone,31,jul,-1.5924377745134697,4,-1,0,0,0,0,Senior,4,4.0,1,1,0,never,0,0,0
 54,entrepreneur,married,tertiary,0,0.1986897446878144,0,1,cellular,5,feb,-0.8179811088092919,7,196,3,0,1,0,Senior,10,1.75,1,0,0,never,0,1,0
-32,services,single,unknown,0,1.5921531936136086,1,0,cellular,14,may,0.7406960794089653,1,287,13,0,1,0,Adult,14,0.07142857142857142,0,0,0,never,0,1,0
+32,services,single,unknown,0,1.5921531936136086,1,0,cellular,14,may,0.7406960794089653,1,287,13,0,1,0,Adult,14,0.0714285714285714,0,0,0,never,0,1,0
 41,self-employed,married,secondary,0,-0.4232718492631459,1,0,cellular,11,may,-1.3266149373670757,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 40,blue-collar,married,secondary,0,0.0073343370459619,1,0,cellular,6,may,0.8907641045677386,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 33,blue-collar,married,primary,0,-0.3071143203215877,1,1,cellular,8,may,0.323782966205162,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
@@ -1573,7 +1573,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 36,blue-collar,married,primary,0,-0.4097579990931512,1,0,cellular,15,may,0.2261787801753355,2,365,5,0,1,0,Adult,7,0.3333333333333333,0,0,0,never,0,1,0
 37,blue-collar,married,secondary,0,0.3615233608658947,1,0,cellular,10,jul,0.1363202807742629,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 50,blue-collar,married,secondary,0,-0.2492209959506203,1,0,telephone,11,may,-2.0252909116790097,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
-42,management,divorced,unknown,0,2.0141156482034077,0,0,cellular,16,feb,-0.333546143835474,2,-1,0,1,0,0,Adult,2,2.0,0,1,0,never,0,0,0
+42,management,divorced,unknown,0,2.014115648203408,0,0,cellular,16,feb,-0.333546143835474,2,-1,0,1,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 34,blue-collar,single,primary,0,-0.2093909749314416,1,0,cellular,18,may,-0.0952731812337657,1,299,2,0,1,0,Adult,3,0.3333333333333333,0,0,0,never,0,1,0
 48,management,married,secondary,0,-0.3710528637717947,1,0,cellular,16,apr,1.4400169061778902,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
 47,admin.,married,secondary,0,-0.3780716700356104,1,1,cellular,14,jul,-0.9124902053637296,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
@@ -1620,7 +1620,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 50,blue-collar,married,primary,0,2.1298711988505405,1,0,cellular,18,aug,0.3371568138776646,6,-1,0,0,0,0,Senior,6,6.0,1,1,0,never,0,0,0
 33,blue-collar,married,secondary,0,-0.3052248014753534,1,0,cellular,31,jul,-1.1295748107931525,4,-1,0,0,0,0,Adult,4,4.0,1,1,0,never,0,0,0
 37,blue-collar,married,primary,0,-0.116983737966597,1,0,cellular,14,jul,0.7570963701741517,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
-55,self-employed,married,secondary,0,-0.3272850762679848,1,0,telephone,14,may,-2.6233073031180534,5,174,12,0,1,0,Senior,17,0.38461538461538464,1,0,0,cold,0,1,0
+55,self-employed,married,secondary,0,-0.3272850762679848,1,0,telephone,14,may,-2.6233073031180534,5,174,12,0,1,0,Senior,17,0.3846153846153846,1,0,0,cold,0,1,0
 45,blue-collar,single,primary,1,-0.8912275903386345,0,1,cellular,15,jul,0.8455581854540668,4,-1,0,0,0,0,Adult,4,4.0,1,1,0,never,0,0,0
 47,blue-collar,married,primary,0,0.8142257848222776,0,1,cellular,21,nov,-0.4353435971716211,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 58,technician,married,secondary,0,-0.3715880076239098,0,0,unknown,16,jun,1.3233989886327058,3,-1,0,0,0,0,Senior,3,3.0,0,1,0,never,0,0,0
@@ -1632,7 +1632,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 32,management,divorced,tertiary,0,-0.4442696930118384,1,0,unknown,8,may,0.8577546807630793,4,-1,0,0,0,0,Adult,4,4.0,1,1,0,never,0,0,0
 39,blue-collar,married,secondary,0,-0.437926427397188,0,0,cellular,30,jul,-0.7844766245848622,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
 41,technician,married,secondary,0,-0.4060901447285033,1,0,cellular,6,aug,-0.0230293886169544,4,-1,0,0,0,0,Adult,4,4.0,1,1,0,never,0,0,0
-59,blue-collar,married,primary,0,-0.113006797647544,0,0,cellular,28,jan,-0.6793759405733744,1,154,6,0,1,0,Senior,7,0.14285714285714285,0,0,0,cold,0,1,0
+59,blue-collar,married,primary,0,-0.113006797647544,0,0,cellular,28,jan,-0.6793759405733744,1,154,6,0,1,0,Senior,7,0.1428571428571428,0,0,0,cold,0,1,0
 42,unemployed,divorced,secondary,0,-0.0893388941780418,0,0,cellular,28,jan,-0.6894656500691742,1,169,3,0,1,0,Adult,4,0.25,0,0,0,cold,0,1,0
 33,blue-collar,married,secondary,0,-0.1177802773515437,1,0,cellular,14,may,-0.9758687536899172,2,370,1,0,1,0,Adult,3,1.0,0,0,0,never,0,1,0
 53,retired,married,secondary,0,1.2612566628524415,0,0,cellular,6,may,-0.5737961200764227,1,87,2,0,1,0,Senior,3,0.3333333333333333,0,0,0,warm,0,1,0
@@ -1706,7 +1706,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 35,management,single,tertiary,0,1.5403432183856676,1,0,cellular,22,mar,0.1414784887524292,1,-1,0,1,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 25,student,single,secondary,0,-0.2797189350641544,0,0,cellular,26,may,0.196908044747213,2,-1,0,1,0,0,Young,2,2.0,0,1,0,never,0,0,0
 32,blue-collar,single,secondary,0,-0.3705184767983241,1,0,cellular,17,jul,2.390113303313926,1,-1,0,1,0,0,Adult,1,1.0,0,1,0,never,0,0,0
-30,self-employed,married,secondary,0,-0.3678576401096981,0,1,unknown,17,jul,-1.057031973506891,1,85,5,0,1,0,Young,6,0.16666666666666666,0,0,0,warm,0,1,0
+30,self-employed,married,secondary,0,-0.3678576401096981,0,1,unknown,17,jul,-1.057031973506891,1,85,5,0,1,0,Young,6,0.1666666666666666,0,0,0,warm,0,1,0
 38,management,married,tertiary,0,-0.3937212333426048,1,0,cellular,7,jul,0.0397662992755404,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
 46,admin.,married,secondary,0,-0.3971900482748451,1,0,cellular,27,mar,0.2116252105336105,2,-1,0,1,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 43,unemployed,married,primary,0,-0.0121695257999122,1,1,unknown,15,may,0.2688961184060329,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
@@ -1722,7 +1722,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 30,blue-collar,single,secondary,1,-0.4413642994705198,1,0,unknown,23,may,-0.829371990816127,3,-1,0,0,0,0,Young,3,3.0,0,1,0,never,0,0,0
 60,retired,married,secondary,0,-0.299118215953092,0,0,cellular,18,aug,0.8394202989610522,4,-1,0,0,0,0,Senior,4,4.0,1,1,0,never,0,0,0
 56,management,married,secondary,0,-0.3104334021035523,1,0,cellular,19,nov,1.7576781044512924,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
-45,blue-collar,married,primary,0,-0.3819105290364769,1,0,unknown,7,may,1.9379060813175215,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
+45,blue-collar,married,primary,0,-0.3819105290364769,1,0,unknown,7,may,1.9379060813175213,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
 38,technician,divorced,secondary,0,-0.2325906995877494,0,0,cellular,11,aug,-1.0999764361467186,6,-1,0,0,0,0,Adult,6,6.0,1,1,0,never,0,0,0
 20,student,single,secondary,0,0.0732558269471245,0,0,cellular,12,feb,0.4147005350399105,1,-1,0,0,0,0,Young,1,1.0,0,1,0,never,0,0,0
 59,retired,married,primary,0,-0.537505484316447,1,0,cellular,27,aug,-0.829371990816127,4,-1,0,0,0,0,Senior,4,4.0,1,1,0,never,0,0,0
@@ -1759,7 +1759,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 42,admin.,single,secondary,0,-0.308061000515368,1,0,unknown,14,may,-1.3821785522573178,5,-1,0,0,0,0,Adult,5,5.0,1,1,0,never,0,0,0
 30,blue-collar,married,primary,0,-1.349842246040318,0,0,cellular,10,jul,-0.4110792020818707,6,-1,0,0,0,0,Young,6,6.0,1,1,0,never,0,0,0
 26,admin.,single,tertiary,0,0.8811242782818781,1,0,unknown,29,may,0.7340817149334609,5,-1,0,0,0,0,Young,5,5.0,1,1,0,never,0,0,0
-35,technician,married,secondary,0,-0.4453824591762855,1,0,cellular,9,nov,1.194501280653694,1,96,5,1,1,1,Adult,6,0.16666666666666666,0,0,0,cold,0,1,0
+35,technician,married,secondary,0,-0.4453824591762855,1,0,cellular,9,nov,1.194501280653694,1,96,5,1,1,1,Adult,6,0.1666666666666666,0,0,0,cold,0,1,0
 35,technician,married,secondary,0,-0.3042819388694023,1,1,unknown,1,jul,-0.4110792020818707,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
 35,self-employed,single,tertiary,0,-0.4128709434709181,0,0,cellular,7,sep,0.5575569046977368,2,96,2,0,1,0,Adult,4,0.6666666666666666,0,0,0,cold,0,1,0
 57,blue-collar,married,secondary,0,0.640097975387498,0,0,cellular,21,aug,1.775835234164722,10,-1,0,1,0,0,Senior,10,10.0,1,1,0,never,0,0,0
@@ -2048,7 +2048,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 21,services,single,secondary,0,0.321400155682697,1,0,unknown,29,may,-0.5922980605066951,2,-1,0,0,0,0,Young,2,2.0,0,1,0,never,0,0,0
 43,unknown,married,tertiary,0,0.3328101877947971,0,0,unknown,19,jun,0.8145986076230154,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 54,management,married,primary,0,0.937206085258722,0,1,cellular,20,nov,-0.6206091924023379,3,-1,0,0,0,0,Senior,3,3.0,0,1,0,never,0,0,0
-59,technician,married,primary,0,1.0377372723150329,0,0,cellular,14,jan,0.5537849050430519,1,91,10,1,1,1,Senior,11,0.09090909090909091,0,0,0,cold,0,1,0
+59,technician,married,primary,0,1.0377372723150329,0,0,cellular,14,jan,0.5537849050430519,1,91,10,1,1,1,Senior,11,0.0909090909090909,0,0,0,cold,0,1,0
 52,blue-collar,married,primary,0,-0.314246603097238,1,0,cellular,6,may,0.0508593783990168,2,170,2,0,1,0,Senior,4,0.6666666666666666,0,0,0,cold,0,1,0
 31,admin.,single,secondary,0,-0.094046722515176,1,0,unknown,26,may,1.2395015663988969,2,-1,0,1,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 53,admin.,married,secondary,0,-0.2986505958157374,0,1,cellular,18,jul,-0.2965578932379944,7,-1,0,0,0,0,Senior,7,7.0,1,1,0,never,0,0,0
@@ -2067,9 +2067,9 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 38,unemployed,single,tertiary,0,-0.4453824591762855,0,0,cellular,6,feb,-1.5247059905625673,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 56,management,divorced,tertiary,0,0.6626232825224095,1,0,telephone,18,may,0.6129249113187116,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
 41,housemaid,divorced,primary,0,-0.4274043384523112,1,0,cellular,18,nov,0.254810551312107,3,126,4,0,1,0,Adult,7,0.6,0,0,0,cold,0,1,0
-47,technician,married,secondary,0,0.0645187495001461,1,0,cellular,30,apr,2.0032232685470635,1,87,5,1,1,0,Senior,6,0.16666666666666666,0,0,0,warm,0,1,0
+47,technician,married,secondary,0,0.0645187495001461,1,0,cellular,30,apr,2.0032232685470635,1,87,5,1,1,0,Senior,6,0.1666666666666666,0,0,0,warm,0,1,0
 38,management,single,tertiary,0,-0.4186272389457845,1,0,cellular,17,apr,-0.2053007983072428,1,273,3,0,1,0,Adult,4,0.25,0,0,0,never,0,1,0
-80,retired,married,secondary,0,2.17330522274172,0,0,telephone,6,apr,1.531090628298858,1,118,11,0,1,1,Old,12,0.08333333333333333,0,0,0,cold,0,1,0
+80,retired,married,secondary,0,2.17330522274172,0,0,telephone,6,apr,1.531090628298858,1,118,11,0,1,1,Old,12,0.0833333333333333,0,0,0,cold,0,1,0
 37,services,married,secondary,0,1.2014872064372353,1,0,cellular,20,nov,-0.0113794026636284,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 44,management,single,tertiary,0,-4.875745916312624,1,1,cellular,15,may,-0.6206091924023379,10,-1,0,0,0,0,Adult,10,10.0,1,1,0,never,0,0,0
 33,blue-collar,single,secondary,0,-0.1138014224566468,0,0,cellular,6,feb,1.8417233328179707,2,-1,0,1,0,0,Adult,2,2.0,0,1,0,never,0,0,0
@@ -2175,7 +2175,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 55,services,married,unknown,0,0.0801518439442359,1,0,unknown,30,may,1.854264948537622,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
 35,services,married,secondary,0,-0.0659813491255514,1,0,telephone,14,jul,-0.6398708851212029,14,-1,0,0,0,0,Adult,14,14.0,1,1,0,never,0,0,0
 56,management,divorced,tertiary,0,-0.2187852673032219,0,0,unknown,28,may,-0.9124902053637296,3,-1,0,0,0,0,Senior,3,3.0,0,1,0,never,0,0,0
-28,blue-collar,single,secondary,0,-0.5352449747758836,1,0,cellular,1,sep,0.0563701323260883,1,92,14,1,1,1,Young,15,0.06666666666666667,0,0,0,cold,0,1,0
+28,blue-collar,single,secondary,0,-0.5352449747758836,1,0,cellular,1,sep,0.0563701323260883,1,92,14,1,1,1,Young,15,0.0666666666666666,0,0,0,cold,0,1,0
 27,student,single,secondary,0,-0.1241666291189957,1,0,unknown,7,may,0.6380193793718352,2,-1,0,0,0,0,Young,2,2.0,0,1,0,never,0,0,0
 30,technician,married,secondary,0,-0.2496623469659307,0,0,cellular,7,aug,-0.4435417953377298,2,-1,0,0,0,0,Young,2,2.0,0,1,0,never,0,0,0
 51,technician,married,tertiary,0,-0.4494912601104698,0,0,cellular,25,aug,-0.7519263756051605,9,-1,0,0,0,0,Senior,9,9.0,1,1,0,never,0,0,0
@@ -2276,7 +2276,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 35,admin.,single,secondary,0,-0.4453824591762855,1,0,cellular,13,may,2.14606759710812,1,-1,0,1,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 45,management,married,tertiary,0,-0.9570720914954362,1,0,cellular,6,may,0.6556686691755642,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 42,blue-collar,married,primary,0,-0.1110218913440532,1,1,telephone,31,jul,-0.7844766245848622,10,-1,0,0,0,0,Adult,10,10.0,1,1,0,never,0,0,0
-38,technician,married,secondary,0,0.3307990980594911,0,0,cellular,2,jun,-0.1330102392108096,1,298,10,0,1,0,Adult,11,0.09090909090909091,0,0,0,never,0,1,0
+38,technician,married,secondary,0,0.3307990980594911,0,0,cellular,2,jun,-0.1330102392108096,1,298,10,0,1,0,Adult,11,0.0909090909090909,0,0,0,never,0,1,0
 34,technician,single,secondary,0,-0.0185836622130515,0,0,cellular,29,aug,-0.699643978509556,4,-1,0,0,0,0,Adult,4,4.0,1,1,0,never,0,0,0
 35,technician,married,secondary,0,-0.2692874323576223,1,0,cellular,13,apr,1.2254384559752038,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
 29,management,single,secondary,0,-0.6791456326134138,1,0,unknown,27,may,-2.976261751472113,3,-1,0,0,0,0,Young,3,3.0,0,1,0,never,0,0,0
@@ -2292,7 +2292,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 38,entrepreneur,married,tertiary,0,-0.3152033250778049,1,0,cellular,5,feb,-0.6110959880644231,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 42,admin.,married,secondary,0,-0.4453824591762855,0,0,unknown,19,jun,0.7668451078111597,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 45,technician,single,tertiary,0,0.3827589437919536,0,0,cellular,29,aug,-1.7709351168323606,14,-1,0,0,0,0,Adult,14,14.0,1,1,0,never,0,0,0
-34,entrepreneur,married,secondary,0,-0.4432504043577162,1,1,cellular,5,may,-0.0288946902052893,1,167,6,0,1,0,Adult,7,0.14285714285714285,0,0,0,cold,0,1,0
+34,entrepreneur,married,secondary,0,-0.4432504043577162,1,1,cellular,5,may,-0.0288946902052893,1,167,6,0,1,0,Adult,7,0.1428571428571428,0,0,0,cold,0,1,0
 48,technician,married,secondary,0,-0.3302205973635927,0,1,cellular,3,feb,-1.3633279293590177,2,222,3,0,1,0,Senior,5,0.5,0,0,0,never,0,1,0
 34,services,married,secondary,0,-0.4453824591762855,0,1,unknown,2,jul,0.0229443503060923,4,-1,0,0,0,0,Adult,4,4.0,1,1,0,never,0,0,0
 32,blue-collar,married,secondary,0,0.322072270522845,1,0,cellular,16,jul,1.5839800767776102,2,-1,0,1,0,0,Adult,2,2.0,0,1,0,never,0,0,0
@@ -2369,7 +2369,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 40,management,single,unknown,0,-0.0586451308747181,1,0,unknown,12,may,1.407012935119009,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
 35,services,married,secondary,0,-0.3312023885528676,1,0,cellular,17,apr,0.0781796826516329,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 45,entrepreneur,married,secondary,0,-0.3983570462252728,1,0,unknown,7,may,0.3282558859287954,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
-37,technician,single,secondary,0,-1.0625734382836924,1,0,cellular,13,aug,2.2421677458139477,6,-1,0,1,0,0,Adult,6,6.0,1,1,0,never,0,0,0
+37,technician,single,secondary,0,-1.0625734382836924,1,0,cellular,13,aug,2.242167745813948,6,-1,0,1,0,0,Adult,6,6.0,1,1,0,never,0,0,0
 35,management,divorced,tertiary,0,-0.2719965673516955,1,0,unknown,9,may,0.0001648543239203,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 43,services,single,secondary,0,0.79960253796981,1,0,cellular,12,nov,1.5802620955145226,2,97,2,1,1,1,Adult,4,0.6666666666666666,0,0,0,cold,0,1,0
 28,blue-collar,married,secondary,0,-0.437926427397188,1,0,cellular,15,may,0.0397662992755404,1,-1,0,0,0,0,Young,1,1.0,0,1,0,never,0,0,0
@@ -2395,7 +2395,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 41,entrepreneur,married,secondary,0,0.3887117453651133,1,0,cellular,18,nov,-0.3639669427880143,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 44,unknown,married,secondary,0,0.4588557013589724,0,0,cellular,4,aug,0.3147916657493839,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
 35,services,single,secondary,0,-0.4186272389457845,1,0,cellular,14,may,-0.2326674961608044,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
-30,management,married,tertiary,0,-0.0436725642629642,0,0,cellular,13,aug,0.0727618865319959,1,83,5,0,1,0,Young,6,0.16666666666666666,0,0,0,warm,0,1,0
+30,management,married,tertiary,0,-0.0436725642629642,0,0,cellular,13,aug,0.0727618865319959,1,83,5,0,1,0,Young,6,0.1666666666666666,0,0,0,warm,0,1,0
 43,blue-collar,single,primary,0,-0.42192741905966,1,0,unknown,30,may,0.7956913594177236,17,-1,0,0,0,0,Adult,17,17.0,1,1,0,never,0,0,0
 51,entrepreneur,married,secondary,1,-8.031021036215918,0,1,cellular,28,jul,-0.4517963920004281,6,-1,0,0,0,0,Senior,6,6.0,1,1,0,never,0,0,0
 60,retired,married,secondary,0,-0.3863544943313455,0,0,cellular,30,apr,-0.2053007983072428,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
@@ -2470,7 +2470,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 28,admin.,single,secondary,0,0.1208028865514086,1,0,unknown,3,jun,0.7373928117323849,1,-1,0,0,0,0,Young,1,1.0,0,1,0,never,0,0,0
 57,retired,married,primary,0,0.2260682986987758,1,1,cellular,18,jul,0.2920429493433075,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
 38,technician,married,tertiary,0,0.0185101652219533,1,0,cellular,4,feb,0.9172133480872074,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
-22,student,single,secondary,0,0.5134853052049213,0,0,cellular,8,nov,1.002003673318426,2,38,10,1,1,0,Young,12,0.18181818181818182,0,0,0,warm,0,1,0
+22,student,single,secondary,0,0.5134853052049213,0,0,cellular,8,nov,1.002003673318426,2,38,10,1,1,0,Young,12,0.1818181818181818,0,0,0,warm,0,1,0
 54,admin.,married,secondary,0,-0.0482674487565072,1,0,cellular,17,nov,-0.9889889898856716,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
 32,technician,married,tertiary,0,-3.8704053084143255,1,0,cellular,21,jul,0.7241010449920471,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
 32,management,married,tertiary,0,0.2412202275063377,1,0,cellular,18,nov,-0.1523137894931696,2,179,3,0,1,0,Adult,5,0.5,0,0,0,cold,0,1,0
@@ -2485,7 +2485,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 40,blue-collar,married,secondary,0,-0.2949201728831124,1,0,unknown,29,may,1.0924313701624209,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 26,self-employed,single,tertiary,0,0.05940829636684,0,0,cellular,4,may,0.254810551312107,3,-1,0,0,0,0,Young,3,3.0,0,1,0,never,0,0,0
 34,management,married,tertiary,0,-0.5987209170042839,1,0,cellular,11,jul,-0.7626740617525385,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
-50,unknown,married,unknown,0,-0.1700395962362177,0,0,cellular,9,jul,1.042595736708003,1,683,6,1,1,0,Senior,7,0.14285714285714285,0,0,0,never,0,1,0
+50,unknown,married,unknown,0,-0.1700395962362177,0,0,cellular,9,jul,1.042595736708003,1,683,6,1,1,0,Senior,7,0.1428571428571428,0,0,0,never,0,1,0
 31,unknown,divorced,tertiary,0,-0.360499801790172,0,0,cellular,22,aug,0.8145986076230154,9,-1,0,0,0,0,Adult,9,9.0,1,1,0,never,0,0,0
 35,technician,married,secondary,0,-0.1126096274768055,1,0,unknown,23,may,0.2642176381843297,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 55,retired,married,primary,0,-3.5427105633277067,0,1,cellular,14,may,-0.6206091924023379,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
@@ -2555,7 +2555,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 33,management,married,tertiary,0,0.0266716288120569,1,0,cellular,13,may,1.2831745369935066,1,-1,0,1,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 36,blue-collar,married,secondary,0,-0.0823003286626585,1,0,cellular,6,may,-0.0230293886169544,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
 49,unemployed,married,tertiary,0,-0.2470171921300959,0,0,cellular,22,may,-0.1918408537058598,1,59,2,0,1,0,Senior,3,0.3333333333333333,0,0,0,warm,0,1,0
-34,admin.,divorced,secondary,0,-0.2030284280743649,1,0,cellular,12,may,1.1726963550631289,1,350,5,1,1,0,Adult,6,0.16666666666666666,0,0,0,never,0,1,0
+34,admin.,divorced,secondary,0,-0.2030284280743649,1,0,cellular,12,may,1.1726963550631289,1,350,5,1,1,0,Adult,6,0.1666666666666666,0,0,0,never,0,1,0
 40,technician,divorced,secondary,0,-1.4732765120327114,1,0,cellular,13,may,-1.1446820450665485,5,-1,0,0,0,0,Adult,5,5.0,1,1,0,never,0,0,0
 72,retired,married,primary,0,-0.0749001681852945,0,0,cellular,24,apr,-0.0952731812337657,2,-1,0,0,0,0,Old,2,2.0,0,1,0,never,0,0,0
 43,technician,married,secondary,0,-0.4309877049997195,1,0,unknown,16,may,0.7106813941865625,4,-1,0,0,0,0,Adult,4,4.0,1,1,0,never,0,0,0
@@ -2664,7 +2664,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 49,admin.,single,secondary,0,-0.0042722643110429,1,0,telephone,21,nov,-2.554550061816179,3,-1,0,0,0,0,Senior,3,3.0,0,1,0,never,0,0,0
 56,entrepreneur,married,unknown,0,-0.1630460030113398,0,0,unknown,20,jun,-2.1416479794936323,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 48,admin.,divorced,unknown,0,-0.5914432088370251,0,0,cellular,14,may,0.2782035907330444,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
-27,student,single,tertiary,0,0.8994696253300795,1,0,cellular,22,may,0.0508593783990168,1,98,6,1,1,1,Young,7,0.14285714285714285,0,0,0,cold,0,1,0
+27,student,single,tertiary,0,0.8994696253300795,1,0,cellular,22,may,0.0508593783990168,1,98,6,1,1,1,Young,7,0.1428571428571428,0,0,0,cold,0,1,0
 31,management,single,tertiary,0,-0.1634564272194021,1,0,cellular,16,jul,0.8907641045677386,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 28,blue-collar,single,secondary,0,-0.4135002989016624,0,0,unknown,19,may,0.005897979823894,1,-1,0,0,0,0,Young,1,1.0,0,1,0,never,0,0,0
 36,management,married,tertiary,0,-0.2248039163382335,0,0,unknown,28,may,-0.4684781907331588,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
@@ -2825,7 +2825,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 37,technician,single,secondary,0,0.879015833947551,0,0,cellular,12,aug,1.4980641737041522,3,-1,0,1,0,0,Adult,3,3.0,0,1,0,never,0,0,0
 28,management,single,tertiary,0,0.4786483351942622,0,0,cellular,14,sep,0.8424925712949499,2,-1,0,0,0,0,Young,2,2.0,0,1,0,never,0,0,0
 57,blue-collar,married,primary,0,-0.3391187568733713,0,0,unknown,9,jun,0.2164943826862198,3,-1,0,0,0,0,Senior,3,3.0,0,1,0,never,0,0,0
-39,management,married,tertiary,0,-0.0877723845735775,1,0,cellular,11,may,1.8682565442183807,7,300,2,1,1,0,Adult,9,2.3333333333333335,1,0,0,never,0,1,0
+39,management,married,tertiary,0,-0.0877723845735775,1,0,cellular,11,may,1.8682565442183807,7,300,2,1,1,0,Adult,9,2.333333333333333,1,0,0,never,0,1,0
 49,services,married,secondary,0,-0.2724489058660354,0,0,telephone,9,feb,3.0340218011833864,4,-1,0,1,0,0,Senior,4,4.0,1,1,0,never,0,0,0
 38,technician,married,secondary,0,0.3405097672373638,1,0,cellular,21,aug,-0.1719204912563499,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 27,blue-collar,married,secondary,0,-0.0663682471431692,1,0,unknown,3,jun,-0.005594188098667,5,-1,0,0,0,0,Young,5,5.0,1,1,0,never,0,0,0
@@ -2916,7 +2916,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 37,blue-collar,married,primary,0,-0.1305784287449464,1,0,cellular,5,feb,-0.4191131013509083,2,258,4,0,1,0,Adult,6,0.4,0,0,0,never,0,1,0
 56,retired,divorced,primary,0,-0.1149940732203644,0,0,cellular,29,jan,-0.2892926350702626,1,102,1,1,1,0,Senior,2,0.5,0,0,0,cold,0,1,0
 32,admin.,single,secondary,0,2.6673920448096697,1,0,cellular,19,nov,-0.253597825533527,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
-41,technician,single,tertiary,0,0.2339970614429453,1,0,cellular,4,feb,0.3591521380290576,1,184,6,1,1,1,Adult,7,0.14285714285714285,0,0,0,never,0,1,0
+41,technician,single,tertiary,0,0.2339970614429453,1,0,cellular,4,feb,0.3591521380290576,1,184,6,1,1,1,Adult,7,0.1428571428571428,0,0,0,never,0,1,0
 29,admin.,single,tertiary,0,-0.4332166146488874,0,0,cellular,29,sep,-0.7955357859915568,1,120,1,0,1,0,Young,2,0.5,0,0,0,cold,0,1,0
 44,management,married,tertiary,0,1.99627257774413,0,0,cellular,21,aug,1.6024364464296073,5,-1,0,0,0,0,Adult,5,5.0,1,1,0,never,0,0,0
 24,blue-collar,married,secondary,0,-0.4371118440884504,1,0,unknown,27,may,0.4880101919424943,7,-1,0,0,0,0,Young,7,7.0,1,1,0,never,0,0,0
@@ -3022,7 +3022,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 25,services,single,secondary,0,-0.4007082313871827,0,0,cellular,21,jul,-0.9889889898856716,11,-1,0,0,0,0,Young,11,11.0,1,1,0,never,0,0,0
 43,blue-collar,married,primary,0,-0.4030837220961567,0,0,cellular,8,may,1.102708921781719,2,367,2,0,1,0,Adult,4,0.6666666666666666,0,0,0,never,0,1,0
 37,blue-collar,married,secondary,0,-0.2625503748923734,1,0,cellular,12,may,0.6661511317912894,2,175,1,0,1,0,Adult,3,1.0,0,0,0,cold,0,1,0
-36,blue-collar,single,tertiary,0,0.2967860675826634,0,0,cellular,14,oct,-0.0347872245030358,1,91,11,0,1,0,Adult,12,0.08333333333333333,0,0,0,cold,0,1,0
+36,blue-collar,single,tertiary,0,0.2967860675826634,0,0,cellular,14,oct,-0.0347872245030358,1,91,11,0,1,0,Adult,12,0.0833333333333333,0,0,0,cold,0,1,0
 49,management,divorced,tertiary,0,0.321736227833625,0,1,cellular,17,nov,-0.3872936563374032,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 38,management,single,tertiary,0,4.301909897855238,1,0,telephone,29,jan,0.1049320543040315,1,247,2,0,1,0,Adult,3,0.3333333333333333,0,0,0,never,0,1,0
 39,management,divorced,tertiary,0,-0.4246318674124426,0,0,unknown,18,jun,0.5613185248377913,5,-1,0,0,0,0,Adult,5,5.0,1,1,0,never,0,0,0
@@ -3065,7 +3065,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 34,blue-collar,married,secondary,0,-0.1866379447285385,1,0,cellular,11,may,0.0942976203074085,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 43,management,single,tertiary,0,0.2511701791622406,1,0,cellular,26,aug,0.3415850382445392,1,474,3,1,1,0,Adult,4,0.25,0,0,0,never,0,1,0
 55,services,married,secondary,0,-0.5023934706678569,0,1,cellular,13,aug,-0.864247546266032,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
-34,blue-collar,married,secondary,0,-0.0517205892335432,1,0,cellular,20,apr,1.0585189134824826,1,150,5,0,1,0,Adult,6,0.16666666666666666,0,0,0,cold,0,1,0
+34,blue-collar,married,secondary,0,-0.0517205892335432,1,0,cellular,20,apr,1.0585189134824826,1,150,5,0,1,0,Adult,6,0.1666666666666666,0,0,0,cold,0,1,0
 34,management,single,tertiary,0,-0.2733542899619012,1,0,unknown,9,may,-0.3716927152313616,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 43,self-employed,married,tertiary,0,-0.4007082313871827,0,0,unknown,6,jun,0.2164943826862198,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 39,blue-collar,married,primary,0,-0.0733460142238619,1,0,cellular,19,nov,-0.9248815975927784,6,-1,0,0,0,0,Adult,6,6.0,1,1,0,never,0,0,0
@@ -3156,7 +3156,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 34,management,divorced,secondary,0,-0.2856727780755519,0,0,cellular,7,aug,-0.7519263756051605,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 55,technician,single,tertiary,0,-2.5835743915888254,1,0,cellular,8,may,-0.4517963920004281,3,-1,0,0,0,0,Senior,3,3.0,0,1,0,never,0,0,0
 23,admin.,single,secondary,0,-0.1573124491144235,1,0,cellular,6,may,-1.1146749651642027,1,-1,0,0,0,0,Young,1,1.0,0,1,0,never,0,0,0
-75,blue-collar,married,secondary,0,1.5666972008007038,0,0,cellular,11,feb,1.8495734829007175,2,190,1,0,1,0,Old,3,1.0,0,0,0,never,0,1,0
+75,blue-collar,married,secondary,0,1.5666972008007038,0,0,cellular,11,feb,1.849573482900717,2,190,1,0,1,0,Old,3,1.0,0,0,0,never,0,1,0
 58,admin.,married,secondary,0,0.0553856763050395,0,0,telephone,4,feb,-0.8525026002784523,3,-1,0,0,0,0,Senior,3,3.0,0,1,0,never,0,0,0
 35,admin.,married,secondary,0,-0.1027107203393007,1,0,cellular,20,nov,0.1619088098050589,7,133,1,0,1,0,Adult,8,3.5,1,0,0,cold,0,1,0
 27,management,married,tertiary,0,-0.0725694235765408,0,0,cellular,22,sep,1.2989465623626106,1,-1,0,1,0,0,Young,1,1.0,0,1,0,never,0,0,0
@@ -3175,7 +3175,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 33,technician,single,tertiary,0,-0.360499801790172,0,0,cellular,25,aug,-0.7844766245848622,4,-1,0,0,0,0,Adult,4,4.0,1,1,0,never,0,0,0
 36,blue-collar,single,secondary,0,-0.3446292689996634,1,0,telephone,12,may,-1.273838409458579,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 38,admin.,divorced,secondary,0,-0.3507096444324712,1,0,unknown,17,jun,1.241832482597195,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
-28,admin.,single,secondary,0,1.1971602503566092,0,0,telephone,12,may,0.7340817149334609,1,181,5,1,1,1,Young,6,0.16666666666666666,0,0,0,never,0,1,0
+28,admin.,single,secondary,0,1.1971602503566092,0,0,telephone,12,may,0.7340817149334609,1,181,5,1,1,1,Young,6,0.1666666666666666,0,0,0,never,0,1,0
 32,management,single,tertiary,0,3.063337574780621,1,0,cellular,11,aug,-0.7099126299891974,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 35,admin.,married,secondary,0,-0.0787912715058782,0,1,cellular,25,jul,0.6020285490492412,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 58,technician,married,primary,0,0.9836439515978528,0,0,unknown,20,jun,-0.6016593854785363,3,-1,0,0,0,0,Senior,3,3.0,0,1,0,never,0,0,0
@@ -3255,7 +3255,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 39,blue-collar,married,unknown,0,-0.3502000557473444,1,0,unknown,30,may,-0.6693731948945519,6,-1,0,0,0,0,Adult,6,6.0,1,1,0,never,0,0,0
 40,admin.,married,secondary,0,0.1222309667202415,1,1,unknown,26,may,-0.9248815975927784,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 55,blue-collar,married,primary,0,-0.2888969555225841,0,1,telephone,14,jul,0.3192949298591596,4,-1,0,0,0,0,Senior,4,4.0,1,1,0,never,0,0,0
-36,management,married,tertiary,0,-0.1962781941507627,0,0,cellular,12,mar,0.1311414716501687,3,182,6,1,1,1,Adult,9,0.42857142857142855,0,0,0,never,0,1,0
+36,management,married,tertiary,0,-0.1962781941507627,0,0,cellular,12,mar,0.1311414716501687,3,182,6,1,1,1,Adult,9,0.4285714285714285,0,0,0,never,0,1,0
 31,admin.,single,secondary,0,0.2139666585268874,1,0,unknown,3,jun,-2.324202445044814,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 38,services,married,secondary,0,-0.4453824591762855,1,0,telephone,28,jul,-0.4684781907331588,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 52,management,married,secondary,0,-0.2248039163382335,1,0,unknown,30,may,-0.2257688529572366,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
@@ -3302,7 +3302,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 53,technician,married,tertiary,0,-0.2235114788458899,1,0,unknown,11,jun,-0.9500838443668655,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
 60,services,married,tertiary,0,1.0547987644901513,1,0,cellular,16,aug,0.2595224922130293,3,761,1,1,1,0,Senior,4,1.5,0,0,0,never,0,1,0
 33,management,divorced,tertiary,0,-0.4453824591762855,1,1,cellular,19,aug,0.4188796322474716,8,-1,0,0,0,0,Adult,8,8.0,1,1,0,never,0,0,0
-52,services,divorced,secondary,0,-0.3104334021035523,1,0,cellular,6,may,-0.6496222081188298,1,362,5,0,1,0,Senior,6,0.16666666666666666,0,0,0,never,0,1,0
+52,services,divorced,secondary,0,-0.3104334021035523,1,0,cellular,6,may,-0.6496222081188298,1,362,5,0,1,0,Senior,6,0.1666666666666666,0,0,0,never,0,1,0
 64,retired,married,tertiary,0,-0.0555645248057901,0,0,cellular,11,feb,1.5117499419616869,1,181,3,1,1,0,Old,4,0.25,0,0,0,never,0,1,0
 40,blue-collar,single,secondary,0,-0.4422874392749495,0,0,cellular,19,nov,2.045338291690315,1,-1,0,1,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 52,admin.,married,secondary,0,-0.1153918143933481,0,0,unknown,12,jun,0.4020846279172607,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
@@ -3342,7 +3342,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 49,entrepreneur,married,primary,0,-0.3292404610487754,0,0,unknown,13,may,-0.5376410345457233,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 53,admin.,married,secondary,0,-0.2115193988024488,0,0,cellular,5,apr,1.2740863450619233,1,-1,0,1,0,0,Senior,1,1.0,0,1,0,never,0,0,0
 42,unemployed,married,secondary,0,2.12776159089926,1,0,unknown,30,may,-1.0157048996890454,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
-40,services,married,secondary,0,-1.4828633146994374,1,1,cellular,13,may,1.234828697038989,1,295,6,0,1,0,Adult,7,0.14285714285714285,0,0,0,never,0,1,0
+40,services,married,secondary,0,-1.4828633146994374,1,1,cellular,13,may,1.234828697038989,1,295,6,0,1,0,Adult,7,0.1428571428571428,0,0,0,never,0,1,0
 30,blue-collar,single,primary,0,-0.2391232406673703,0,0,cellular,21,nov,0.9460377020579258,1,-1,0,0,0,0,Young,1,1.0,0,1,0,never,0,0,0
 31,technician,divorced,secondary,0,2.8111756096843616,1,0,unknown,4,jun,-0.35629005798095,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 55,admin.,married,secondary,0,-0.0482674487565072,1,0,cellular,27,oct,-0.699643978509556,1,111,3,0,1,0,Senior,4,0.25,0,0,0,cold,0,1,0
@@ -3364,7 +3364,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 21,student,single,secondary,0,-0.439603733871328,0,0,unknown,9,may,1.4132563421830997,1,-1,0,0,0,0,Young,1,1.0,0,1,0,never,0,0,0
 33,blue-collar,married,secondary,0,-0.2081157567179037,1,0,unknown,21,may,1.120522181606461,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 40,self-employed,divorced,secondary,0,0.3123150046033942,0,1,unknown,20,jun,0.3936076132017809,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
-34,entrepreneur,married,secondary,0,0.3025325282436347,1,0,cellular,9,apr,1.2395015663988969,3,321,6,0,1,0,Adult,9,0.42857142857142855,0,0,0,never,0,1,0
+34,entrepreneur,married,secondary,0,0.3025325282436347,1,0,cellular,9,apr,1.2395015663988969,3,321,6,0,1,0,Adult,9,0.4285714285714285,0,0,0,never,0,1,0
 52,unknown,married,primary,0,-0.3061689246687175,0,0,cellular,29,jul,0.3893489087548827,6,-1,0,0,0,0,Senior,6,6.0,1,1,0,never,0,0,0
 27,admin.,married,secondary,0,-0.036037623225551,0,0,cellular,5,jun,0.8516695637778419,1,-1,0,1,0,0,Young,1,1.0,0,1,0,never,0,0,0
 57,services,divorced,secondary,0,1.1737549949310575,0,0,cellular,21,nov,-1.989525404437253,4,114,1,0,1,0,Senior,5,2.0,1,0,0,cold,0,1,0
@@ -3393,7 +3393,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 36,blue-collar,married,unknown,0,-0.3971900482748451,1,0,unknown,8,may,0.1619088098050589,4,-1,0,0,0,0,Adult,4,4.0,1,1,0,never,0,0,0
 32,services,married,secondary,0,-0.3386206375602593,1,0,telephone,15,may,-1.4013760743997474,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 49,technician,married,tertiary,0,-0.2912080317963949,1,0,unknown,19,may,-0.1266413503888223,4,-1,0,0,0,0,Senior,4,4.0,1,1,0,never,0,0,0
-46,services,married,secondary,0,-0.4413642994705198,0,0,cellular,30,apr,0.3893489087548827,1,261,5,1,1,0,Senior,6,0.16666666666666666,0,0,0,never,0,1,0
+46,services,married,secondary,0,-0.4413642994705198,0,0,cellular,30,apr,0.3893489087548827,1,261,5,1,1,0,Senior,6,0.1666666666666666,0,0,0,never,0,1,0
 40,entrepreneur,married,secondary,0,0.1538244477772326,1,0,unknown,14,may,0.1154796340791236,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 36,admin.,married,secondary,0,-0.2089657499521376,1,0,unknown,20,may,-0.1785252258520905,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 36,admin.,married,secondary,0,0.002100101693221,1,0,unknown,14,may,2.107856016510877,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
@@ -3407,7 +3407,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 55,admin.,married,secondary,0,0.0407028717998222,1,0,unknown,15,may,-0.427200969114286,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 24,admin.,single,secondary,0,-0.025017119787786,1,1,cellular,15,may,0.0116054398119593,1,-1,0,0,0,0,Young,1,1.0,0,1,0,never,0,0,0
 40,management,divorced,tertiary,0,-0.1933364535434979,1,0,cellular,3,feb,0.3850766154941605,4,270,3,0,1,0,Adult,7,1.0,1,0,0,never,0,1,0
-38,management,single,tertiary,0,2.26888002140454,1,0,telephone,20,apr,-2.976261751472113,3,150,6,0,1,0,Adult,9,0.42857142857142855,0,0,0,cold,0,1,0
+38,management,single,tertiary,0,2.26888002140454,1,0,telephone,20,apr,-2.976261751472113,3,150,6,0,1,0,Adult,9,0.4285714285714285,0,0,0,cold,0,1,0
 48,blue-collar,single,primary,0,-0.2742606225680347,0,0,unknown,5,jun,1.2786373824512984,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 36,management,married,tertiary,0,2.438732408181839,1,0,cellular,30,mar,-0.333546143835474,8,-1,0,0,0,0,Adult,8,8.0,1,1,0,never,0,0,0
 57,management,married,tertiary,0,-0.4453824591762855,0,0,cellular,19,aug,-0.005594188098667,4,-1,0,0,0,0,Senior,4,4.0,1,1,0,never,0,0,0
@@ -3470,7 +3470,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 38,blue-collar,divorced,secondary,0,-0.0390881563555916,0,1,unknown,18,jun,0.7406960794089653,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 48,blue-collar,married,primary,0,-0.092868590481382,1,0,cellular,18,may,-0.7626740617525385,6,-1,0,0,0,0,Senior,6,6.0,1,1,0,never,0,0,0
 34,technician,single,secondary,0,-0.4453824591762855,1,1,unknown,16,may,0.1363202807742629,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
-46,blue-collar,married,primary,0,0.1093520825307432,1,0,cellular,14,may,-0.3038665174105017,3,259,17,0,1,0,Senior,20,0.16666666666666666,0,0,0,never,0,1,0
+46,blue-collar,married,primary,0,0.1093520825307432,1,0,cellular,14,may,-0.3038665174105017,3,259,17,0,1,0,Senior,20,0.1666666666666666,0,0,0,never,0,1,0
 33,technician,married,secondary,0,0.3015190906860168,1,0,unknown,29,may,0.2688961184060329,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
 40,management,married,tertiary,0,-0.3863544943313455,1,1,telephone,9,feb,-0.2606543479399819,6,-1,0,0,0,0,Adult,6,6.0,1,1,0,never,0,0,0
 36,admin.,married,secondary,0,1.0618473138251916,0,0,unknown,19,jun,0.2018321901586641,6,-1,0,0,0,0,Adult,6,6.0,1,1,0,never,0,0,0
@@ -3501,7 +3501,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 28,self-employed,single,tertiary,0,-0.4453824591762855,1,0,cellular,21,jul,1.0820807697336652,1,-1,0,0,0,0,Young,1,1.0,0,1,0,never,0,0,0
 41,technician,married,secondary,0,-0.4453824591762855,0,0,cellular,29,aug,-0.3112190724285923,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 30,management,married,tertiary,0,-0.3532658054220876,0,0,cellular,19,aug,-0.8525026002784523,4,-1,0,0,0,0,Young,4,4.0,1,1,0,never,0,0,0
-32,management,divorced,tertiary,0,-0.041379061141616,1,0,cellular,10,dec,1.7409870895882082,1,185,5,1,1,0,Adult,6,0.16666666666666666,0,0,0,never,0,1,0
+32,management,divorced,tertiary,0,-0.041379061141616,1,0,cellular,10,dec,1.7409870895882082,1,185,5,1,1,0,Adult,6,0.1666666666666666,0,0,0,never,0,1,0
 27,services,single,secondary,0,-0.2972495045745092,0,1,cellular,7,jul,0.2261787801753355,1,-1,0,0,0,0,Young,1,1.0,0,1,0,never,0,0,0
 48,management,married,tertiary,0,-0.4453824591762855,0,0,cellular,26,aug,-1.1446820450665485,5,-1,0,0,0,0,Senior,5,5.0,1,1,0,never,0,0,0
 36,technician,married,tertiary,0,-0.1979622982560233,1,0,unknown,8,may,-0.6302003588078081,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
@@ -3519,7 +3519,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 25,technician,married,tertiary,0,-0.0295702410283603,1,0,cellular,12,may,-0.0230293886169544,2,-1,0,0,0,0,Young,2,2.0,0,1,0,never,0,0,0
 39,self-employed,married,secondary,0,-0.421260677787458,1,0,cellular,20,nov,-1.1295748107931525,2,181,4,0,1,0,Adult,6,0.4,0,0,0,never,0,1,0
 54,technician,married,secondary,0,-0.4453824591762855,0,0,telephone,14,aug,-0.1851652099321126,2,106,6,0,1,1,Senior,8,0.2857142857142857,0,0,0,cold,0,1,0
-32,management,single,tertiary,0,-0.260315710035461,1,0,cellular,18,may,0.1311414716501687,1,264,6,0,1,0,Adult,7,0.14285714285714285,0,0,0,never,0,1,0
+32,management,single,tertiary,0,-0.260315710035461,1,0,cellular,18,may,0.1311414716501687,1,264,6,0,1,0,Adult,7,0.1428571428571428,0,0,0,never,0,1,0
 36,management,married,tertiary,0,-0.0501851161616046,1,0,unknown,20,may,0.4959156123389846,15,-1,0,0,0,0,Adult,15,15.0,1,1,0,never,0,0,0
 54,technician,married,secondary,0,-0.3863544943313455,1,0,cellular,10,jul,-0.3186161345319812,3,-1,0,0,0,0,Senior,3,3.0,0,1,0,never,0,0,0
 31,technician,married,secondary,0,-0.4453824591762855,1,1,cellular,28,jan,-0.9889889898856716,1,223,9,0,1,0,Adult,10,0.1,0,0,0,never,0,1,0
@@ -3681,7 +3681,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 31,services,married,secondary,0,-1.0270950776583,1,1,cellular,16,jul,1.5950804209438736,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 43,unemployed,divorced,secondary,0,1.0070451483866385,1,0,cellular,21,nov,-1.0999764361467186,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 30,blue-collar,single,secondary,1,-0.3099582639306411,1,0,unknown,21,may,0.8966843026213889,1,-1,0,1,0,0,Young,1,1.0,0,1,0,never,0,0,0
-43,management,divorced,tertiary,0,-0.1954369934513447,0,0,cellular,13,may,-1.057031973506891,1,363,22,0,1,0,Adult,23,0.043478260869565216,0,0,0,never,0,1,0
+43,management,divorced,tertiary,0,-0.1954369934513447,0,0,cellular,13,may,-1.057031973506891,1,363,22,0,1,0,Adult,23,0.0434782608695652,0,0,0,never,0,1,0
 42,blue-collar,married,secondary,0,-0.3391187568733713,1,0,cellular,17,nov,-0.699643978509556,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 30,admin.,single,tertiary,0,-0.2792627236816929,0,0,cellular,30,apr,1.4359305868218597,1,85,2,1,1,1,Young,3,0.3333333333333333,0,0,0,warm,0,1,0
 33,management,single,tertiary,0,-0.5842166904858233,1,0,unknown,5,may,0.7472792870957243,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
@@ -3749,7 +3749,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 37,blue-collar,married,secondary,0,-0.3589397287022418,1,1,cellular,7,may,1.1103698147219567,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 35,management,married,tertiary,0,0.6105480467779387,0,0,cellular,20,nov,0.345998578308668,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 37,management,married,tertiary,0,-0.2325906995877494,0,0,cellular,29,jan,0.6556686691755642,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
-79,retired,divorced,unknown,0,0.5582716556206958,0,0,telephone,8,jul,0.166966617606134,7,450,2,0,1,0,Old,9,2.3333333333333335,1,0,0,never,0,1,0
+79,retired,divorced,unknown,0,0.5582716556206958,0,0,telephone,8,jul,0.166966617606134,7,450,2,0,1,0,Old,9,2.333333333333333,1,0,0,never,0,1,0
 39,technician,married,secondary,0,-0.3715880076239098,0,0,cellular,24,aug,-0.8881104581394328,2,94,2,0,1,1,Adult,4,0.6666666666666666,0,0,0,cold,0,1,0
 47,services,married,secondary,0,-0.4453824591762855,1,0,telephone,9,jul,0.3102730614722437,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
 44,blue-collar,married,secondary,0,-0.0432901324266694,1,0,cellular,2,jun,-0.3951702287031097,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
@@ -3800,7 +3800,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 38,management,single,tertiary,0,-0.4453824591762855,0,0,cellular,24,jul,-0.1523137894931696,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 31,blue-collar,married,secondary,0,0.2401892807496168,1,0,cellular,20,apr,-0.1918408537058598,1,182,1,0,1,1,Adult,2,0.5,0,0,0,never,0,1,0
 32,technician,married,secondary,0,0.7782150066513719,0,0,cellular,8,aug,-1.3087282100943065,4,-1,0,0,0,0,Adult,4,4.0,1,1,0,never,0,0,0
-48,technician,married,secondary,0,1.8312310491304455,0,0,cellular,6,aug,-0.8761158842253279,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
+48,technician,married,secondary,0,1.831231049130445,0,0,cellular,6,aug,-0.8761158842253279,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 34,admin.,married,tertiary,0,-0.4173290986045263,0,0,cellular,6,feb,-1.4013760743997474,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 28,student,single,secondary,0,-0.4232718492631459,0,0,cellular,29,jan,0.166966617606134,2,-1,0,0,0,0,Young,2,2.0,0,1,0,never,0,0,0
 40,admin.,single,secondary,0,0.2422508646381704,1,0,unknown,18,jun,-0.1719204912563499,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
@@ -3922,7 +3922,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 42,technician,married,secondary,0,-0.1475359224385914,1,0,cellular,11,may,0.9545729724822384,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 37,entrepreneur,married,tertiary,0,2.078349899093922,0,0,cellular,21,nov,-0.6398708851212029,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 48,blue-collar,married,secondary,0,0.0557516353306808,1,0,cellular,17,apr,0.3721772546840746,1,317,1,0,1,0,Senior,2,0.5,0,0,0,never,0,1,0
-57,retired,married,primary,0,-1.762779990316666,1,0,cellular,4,feb,-0.9374116746064248,1,190,6,0,1,0,Senior,7,0.14285714285714285,0,0,0,never,0,1,0
+57,retired,married,primary,0,-1.762779990316666,1,0,cellular,4,feb,-0.9374116746064248,1,190,6,0,1,0,Senior,7,0.1428571428571428,0,0,0,never,0,1,0
 44,services,married,secondary,0,0.3501964817621508,1,1,cellular,20,apr,-0.6016593854785363,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 48,technician,married,secondary,0,-0.4309877049997195,1,1,cellular,17,nov,-0.864247546266032,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
 56,retired,married,primary,0,-0.4466484754848608,0,0,cellular,27,aug,-0.773523441960531,23,-1,0,0,0,0,Senior,23,23.0,1,1,0,never,0,0,0
@@ -3966,7 +3966,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 39,management,single,secondary,0,-0.0598016209971277,1,0,unknown,29,may,1.33875384210465,4,-1,0,0,0,0,Adult,4,4.0,1,1,0,never,0,0,0
 58,retired,married,primary,0,1.2966889989391774,0,0,unknown,11,jun,0.0563701323260883,6,-1,0,0,0,0,Senior,6,6.0,1,1,0,never,0,0,0
 41,technician,divorced,secondary,0,-0.4079153985946864,0,0,cellular,20,aug,0.3591521380290576,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
-48,technician,married,secondary,0,2.7779350949260717,0,0,telephone,31,jul,-2.976261751472113,3,-1,0,0,0,0,Senior,3,3.0,0,1,0,never,0,0,0
+48,technician,married,secondary,0,2.777935094926072,0,0,telephone,31,jul,-2.976261751472113,3,-1,0,0,0,0,Senior,3,3.0,0,1,0,never,0,0,0
 58,management,married,tertiary,0,0.2971243405883016,0,0,cellular,17,nov,2.6556951271167946,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
 40,self-employed,married,primary,0,-0.3846805720524784,1,0,unknown,13,may,-0.741278340334799,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 48,management,married,tertiary,0,-0.1585391371483401,1,1,cellular,6,may,-0.0586352636369903,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
@@ -4053,7 +4053,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 69,retired,married,primary,0,-0.2912080317963949,0,0,telephone,12,aug,-1.8586089896300395,1,-1,0,0,0,0,Old,1,1.0,0,1,0,never,0,0,0
 52,unemployed,married,primary,0,-0.4288202874034721,1,0,telephone,28,jan,-0.1014844528824664,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
 31,admin.,divorced,secondary,0,-0.2545304275973169,0,0,cellular,15,may,0.6380193793718352,1,297,2,0,1,0,Adult,3,0.3333333333333333,0,0,0,never,0,1,0
-28,technician,single,secondary,0,0.1945107735253344,0,0,cellular,22,may,0.323782966205162,1,107,5,0,1,0,Young,6,0.16666666666666666,0,0,0,cold,0,1,0
+28,technician,single,secondary,0,0.1945107735253344,0,0,cellular,22,may,0.323782966205162,1,107,5,0,1,0,Young,6,0.1666666666666666,0,0,0,cold,0,1,0
 29,management,single,tertiary,0,0.2432811927937343,0,0,cellular,16,aug,0.0618573240207963,2,159,3,0,1,0,Young,5,0.5,0,0,0,cold,0,1,0
 46,services,married,secondary,0,0.4915810750151698,0,0,cellular,19,nov,0.8758548796208481,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 28,blue-collar,married,secondary,0,-0.3802598780651873,1,1,unknown,27,may,-0.3794680549767789,2,-1,0,0,0,0,Young,2,2.0,0,1,0,never,0,0,0
@@ -4082,7 +4082,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 40,blue-collar,married,primary,0,0.6143295144531782,1,0,cellular,14,may,-0.0952731812337657,6,353,23,0,1,0,Adult,29,0.25,1,0,0,never,0,1,0
 26,management,single,secondary,0,-0.1671556395089705,1,0,unknown,6,jun,1.3278021956885704,11,-1,0,0,0,0,Young,11,11.0,1,1,0,never,0,0,0
 47,blue-collar,married,secondary,0,-0.4453824591762855,1,0,cellular,21,jul,1.521450887873167,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
-51,management,married,tertiary,0,0.2222696634221704,0,0,cellular,16,mar,0.8114649701297576,1,182,5,0,1,0,Senior,6,0.16666666666666666,0,0,0,never,0,1,0
+51,management,married,tertiary,0,0.2222696634221704,0,0,cellular,16,mar,0.8114649701297576,1,182,5,0,1,0,Senior,6,0.1666666666666666,0,0,0,never,0,1,0
 45,unemployed,married,primary,0,-0.3386206375602593,1,1,unknown,27,may,-1.1146749651642027,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 35,management,married,tertiary,0,-0.4453824591762855,1,0,cellular,21,jul,0.4998511126108363,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
 36,management,single,tertiary,0,-0.0440550688504854,1,0,unknown,23,may,0.2688961184060329,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
@@ -4158,7 +4158,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 30,entrepreneur,single,secondary,0,-0.1374196618307072,0,0,cellular,14,jul,0.7274358723660933,6,-1,0,0,0,0,Young,6,6.0,1,1,0,never,0,0,0
 55,retired,married,secondary,0,-0.3491824895185751,0,0,cellular,28,aug,-0.1851652099321126,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
 43,blue-collar,married,primary,0,-0.2013373931174837,1,0,cellular,12,may,0.1919652746057183,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
-53,unemployed,married,secondary,0,-0.383569642030081,0,0,cellular,10,aug,1.1179906994220572,1,181,14,1,1,1,Senior,15,0.06666666666666667,0,0,0,never,0,1,0
+53,unemployed,married,secondary,0,-0.383569642030081,0,0,cellular,10,aug,1.1179906994220572,1,181,14,1,1,1,Senior,15,0.0666666666666666,0,0,0,never,0,1,0
 57,retired,married,secondary,0,0.0192532960430312,0,0,telephone,11,jan,1.334382796088274,1,192,2,1,1,1,Senior,3,0.3333333333333333,0,0,0,never,0,1,0
 39,self-employed,single,unknown,0,-0.4453824591762855,0,0,unknown,20,jun,-2.376329817268881,11,-1,0,0,0,0,Adult,11,11.0,1,1,0,never,0,0,0
 56,technician,divorced,tertiary,0,-0.2365053500042524,1,0,telephone,20,nov,-1.8586089896300395,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
@@ -4205,7 +4205,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 37,management,married,tertiary,0,0.2487710845862324,1,0,unknown,29,may,1.460284814331342,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 49,blue-collar,married,primary,0,-0.0341333461169213,0,0,unknown,9,jun,0.1154796340791236,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 44,services,divorced,secondary,0,-0.4453824591762855,1,1,unknown,13,may,-0.6894656500691742,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
-40,student,married,secondary,0,-0.30005434867325,0,0,cellular,19,nov,-1.273838409458579,1,152,6,0,1,0,Adult,7,0.14285714285714285,0,0,0,cold,0,1,0
+40,student,married,secondary,0,-0.30005434867325,0,0,cellular,19,nov,-1.273838409458579,1,152,6,0,1,0,Adult,7,0.1428571428571428,0,0,0,cold,0,1,0
 57,technician,married,secondary,0,-0.1573124491144235,1,0,cellular,2,feb,0.182023244883824,1,76,4,0,1,0,Senior,5,0.2,0,0,0,warm,0,1,0
 39,technician,married,secondary,0,-0.1422670551224757,1,0,cellular,11,may,-0.427200969114286,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 38,services,married,secondary,0,-0.4453824591762855,0,1,cellular,16,jul,2.5990569395196754,6,-1,0,0,0,0,Adult,6,6.0,1,1,0,never,0,0,0
@@ -4231,7 +4231,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 62,self-employed,divorced,tertiary,0,-0.439603733871328,1,0,cellular,13,oct,0.1466162723443244,1,183,4,1,1,1,Old,5,0.2,0,0,0,never,0,1,0
 37,management,married,tertiary,0,0.9907612390712668,0,1,cellular,25,jul,-0.6016593854785363,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 39,services,divorced,secondary,0,-0.1177802773515437,1,0,cellular,9,jul,1.855825686254748,1,-1,0,1,0,0,Adult,1,1.0,0,1,0,never,0,0,0
-38,technician,single,secondary,0,-1.0625734382836924,1,0,cellular,18,may,2.2713843840031727,3,278,6,1,1,1,Adult,9,0.42857142857142855,0,0,0,never,0,1,0
+38,technician,single,secondary,0,-1.0625734382836924,1,0,cellular,18,may,2.2713843840031727,3,278,6,1,1,1,Adult,9,0.4285714285714285,0,0,0,never,0,1,0
 31,management,married,tertiary,0,-0.160176351684466,1,0,cellular,15,jul,-1.175544418357644,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 58,blue-collar,divorced,primary,0,2.1506850489154927,1,0,cellular,31,jul,-0.4435417953377298,10,-1,0,0,0,0,Senior,10,10.0,1,1,0,never,0,0,0
 44,management,single,tertiary,0,0.1566477928172043,1,0,cellular,8,aug,0.0673211707043015,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
@@ -4274,7 +4274,7 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 50,technician,married,tertiary,0,-0.3292404610487754,1,1,cellular,3,feb,-0.511231490272068,2,253,1,0,1,0,Senior,3,1.0,0,0,0,never,0,1,0
 40,management,married,secondary,0,-0.3808091732902249,0,0,cellular,9,feb,-2.2749726703025086,5,-1,0,0,0,0,Adult,5,5.0,1,1,0,never,0,0,0
 35,blue-collar,married,primary,0,-0.2465770173522505,1,0,unknown,16,may,0.9403191271076772,3,-1,0,0,0,0,Adult,3,3.0,0,1,0,never,0,0,0
-53,management,married,tertiary,0,-0.432466023130553,0,0,cellular,20,aug,1.9349403137511716,2,-1,0,1,0,0,Senior,2,2.0,0,1,0,never,0,0,0
+53,management,married,tertiary,0,-0.432466023130553,0,0,cellular,20,aug,1.934940313751172,2,-1,0,1,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 35,admin.,married,secondary,0,-0.3553208485157795,1,1,cellular,29,jan,-1.4819319891142886,1,184,7,0,1,0,Adult,8,0.125,0,0,0,never,0,1,0
 54,technician,married,secondary,0,0.4281840576121141,0,1,cellular,13,aug,-0.9629016454097278,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 35,admin.,single,secondary,0,0.2900141014188135,1,0,cellular,25,may,-1.0711603703273127,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
@@ -4456,9 +4456,9 @@ age,job,marital,education,default,balance,housing,loan,contact,day,month,duratio
 37,management,single,tertiary,0,-0.3791639999018993,1,0,cellular,21,aug,-0.6496222081188298,2,-1,0,0,0,0,Adult,2,2.0,0,1,0,never,0,0,0
 50,blue-collar,married,secondary,0,-0.3381229776527005,1,0,cellular,17,apr,1.3647157197456834,2,-1,0,0,0,0,Senior,2,2.0,0,1,0,never,0,0,0
 37,management,married,primary,0,0.9652246086164789,1,0,cellular,6,apr,1.3881261147623547,2,138,1,0,1,0,Adult,3,1.0,0,0,0,cold,0,1,0
-37,blue-collar,single,primary,0,1.8174387521881197,1,0,unknown,20,may,0.8966843026213889,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
+37,blue-collar,single,primary,0,1.81743875218812,1,0,unknown,20,may,0.8966843026213889,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 29,management,single,tertiary,0,-0.1642776335533652,0,0,cellular,16,dec,0.5725417222888256,1,195,1,1,1,1,Young,2,0.5,0,0,0,never,0,1,0
-31,admin.,single,secondary,0,-0.3176012712468945,1,0,cellular,17,apr,1.1555104824999292,1,315,11,0,1,1,Adult,12,0.08333333333333333,0,0,0,never,0,1,0
+31,admin.,single,secondary,0,-0.3176012712468945,1,0,cellular,17,apr,1.1555104824999292,1,315,11,0,1,1,Adult,12,0.0833333333333333,0,0,0,never,0,1,0
 40,technician,married,secondary,0,-1.5406475872351415,1,0,unknown,26,may,-0.4191131013509083,1,-1,0,0,0,0,Adult,1,1.0,0,1,0,never,0,0,0
 47,services,divorced,secondary,0,-0.3466477916512425,0,0,unknown,5,may,0.1259418822559424,1,-1,0,0,0,0,Senior,1,1.0,0,1,0,never,0,0,0
 55,self-employed,married,secondary,0,0.5741693623238902,0,1,cellular,18,aug,-0.2396048880027354,12,-1,0,0,0,0,Senior,12,12.0,1,1,0,never,0,0,0
